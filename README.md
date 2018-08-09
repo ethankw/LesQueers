@@ -8,7 +8,7 @@ This wiki is created for share all product documents for the `Rebuild LQ App`. I
 
 # Index
 
-* [Account | 账户](Account | 账户)
+* [Account 账户](Account 账户)
 
 # What are the most big changes in the rebuild App?
 
