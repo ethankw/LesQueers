@@ -1,15 +1,10 @@
 # Welcome to LesQueers Wiki!
 
->>>
-
 This wiki is created for share all product documents for the `Rebuild LQ App`. If you have any question please fell free to contact Ethan.
 
 * WeChat: `ethankw`
 * Mobile: `+(86) 186 2183 1305`
 * Email: `ethan@lesqueers.com`
-
->>>
-
 
 # Index
 
